@@ -1,0 +1,4 @@
+export const ORDER_STATUSES = ['PENDING','PROCESSING','SHIPPED','DELIVERED','CANCELLED'];
+export const PAYMENT_METHODS = ['CARD','UPI','NETBANKING','COD'];
+export const ROLES = { ADMIN: 'ADMIN', CUSTOMER: 'CUSTOMER' };
+export const API_BASE = '/api';
